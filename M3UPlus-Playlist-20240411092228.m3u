@@ -1,0 +1,159 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ahlulbayt Quran" tvg-logo="https://ahlulbayt.co.uk/wp-content/uploads/2022/07/logo.png" group-title="(no group)",Ahlulbayt Quran
+https://cdn5.iqsat.net/iqb/5a55d972f1d33b4cd2963da0371d8192.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ahlulbayt Reborn" tvg-logo="https://ahlulbayt.co.uk/wp-content/uploads/2022/07/logo.png" group-title="(no group)",Ahlulbayt Reborn
+https://cdn5.iqsat.net/iqb/c9f03806c6224cf8567682d5a30eb66e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ahlulbayt TV DOC" tvg-logo="https://ahlulbayt.co.uk/wp-content/uploads/2022/07/logo.png" group-title="(no group)",Ahlulbayt TV DOC
+https://cdn5.iqsat.net/iqb/df78ec671693778b3d40e1a160483dcb.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Urdu 1" tvg-logo="https://www.urdu1.tv/themes/urdu1tvc/images/logo.png" group-title="(no group)",Urdu 1
+https://cdn5.mjunoon.tv:8087/web/Urdu1-158-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDEyOjExOjQzIFBNJmhhc2hfdmFsdWU9Ym1Gc0pPZnNCQ1gvSlBwcTdWMHQrQT09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="See TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/SEE_TV_LOGO.png" group-title="(no group)",See TV
+https://cdn5.mjunoon.tv:8087/web/SeeTV-156/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDEyOjEzOjE1IFBNJmhhc2hfdmFsdWU9ZW4yUVc1SVFVVUs3ZkdzaEtnUWdqdz09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="(no group)",8XM
+https://cdn5.mjunoon.tv:8087/web/8XM-131/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDEyOjE0OjIwIFBNJmhhc2hfdmFsdWU9UnQzWTZ1R2tSSE1CN2EyM296TVB2dz09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kay2" tvg-logo="https://kay2.tv/wp-content/uploads/2022/04/Kay2-HD.png" group-title="(no group)",Kay2
+https://cdn5.mjunoon.tv:8087/web/KAY2-127/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDEyOjE0OjQ0IFBNJmhhc2hfdmFsdWU9STFQd3FPQUp5REltblo3R0dURGwvdz09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalwa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Jalwa_TV_Logo.png" group-title="(no group)",Jalwa
+https://cdn5.mjunoon.tv:8087/web/JalwaTV-135/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDEyOjE1OjMyIFBNJmhhc2hfdmFsdWU9elZrTzVnOW1sR0FHQXNGRVd1clIzdz09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sahar Azeri" tvg-logo="https://sahartv.ir/img/Logo.png" group-title="(no group)",Sahar Azeri
+https://lb-cdn.sepehrtv.ir/securelive3/saharazarsd/saharazarsd.m3u8?s=WzmkBQguOp-8gdur4kEl_g&amp;t=1712845122
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kafeel" tvg-logo="https://play-lh.googleusercontent.com/3DX3LuzdrvbYqmEv_xhe_hQAEmSErZUBrG5h5OLxytM4zVFdUmTF3DjL6etsRWEZEYs" group-title="(no group)",Al Kafeel
+https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoo Moo" tvg-logo="" group-title="(no group)",Zoo Moo
+http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="(no group)",Geo News
+https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Entertainment" tvg-logo="https://www.pakistanpeoplesratings.com/assets/img/mix/geo-tv.png" group-title="(no group)",Geo Entertainment
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Play TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Play_Entertainment_logo.png/220px-Play_Entertainment_logo.png" group-title="(no group)",Play TV
+https://cdn5.mjunoon.tv:8087/web/playtv-154/live/154M/chunks.m3u8?nimblesessionid=384364550&amp;wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDEyOjA4OjIzIFBNJmhhc2hfdmFsdWU9M0did0xYNk0zREhhMHBvQjZ3RjJrZz09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discover Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Discover_Pakistan_Logo.png" group-title="(no group)",Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="City 42" tvg-logo="https://seeklogo.com/images/C/city-42-logo-E20F212E2C-seeklogo.com.png" group-title="(no group)",City 42
+http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 News" tvg-logo="" group-title="(no group)",24 News
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K21 News" tvg-logo="" group-title="(no group)",K21 News
+https://cdn6.mjunoon.tv:8087/web/K21News-116/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIzIDExOjMxOjM0IEFNJmhhc2hfdmFsdWU9M1VaL1piZW4yNlRMSklaZmxaaVArZz09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Neo News" tvg-logo="" group-title="(no group)",Neo News
+https://streamone.simpaisa.com:8443/pitvlive1/neo.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Express News" tvg-logo="https://seeklogo.com/images/E/express-news-logo-548646E4CD-seeklogo.com.png" group-title="(no group)",Express News
+https://www.dailymotion.com/cdn/live/video/x7zrxeg.m3u8?sec=zU1ZHRt32g99kVcyt5oqJtstjdr5SsPM9KHl-0qjJMvVGNINhkoPHcHVB44nu9jKwtmeBz60EeCQ9pB_CWzn5g&amp;dmTs=536393&amp;dmV1st=3B5216C667F9D8BEF054EFD400A46695
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lahore News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/2560px-Lahore_News_Logo_%28For_Tv_Screen%29.png" group-title="(no group)",Lahore News
+https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dunya News" tvg-logo="" group-title="(no group)",Dunya News
+https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w796658240_b950272.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="92 News HD" tvg-logo="" group-title="(no group)",92 News HD
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="92 News UK" tvg-logo="" group-title="(no group)",92 News UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Press TV" tvg-logo="" group-title="(no group)",Press TV
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b644100_slen.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ahlulbayt TV" tvg-logo="" group-title="(no group)",Ahlulbayt TV
+https://cdn5.iqsat.net/iqb02/35fae546b99b61a038d52353487e8190.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ali TV" tvg-logo="" group-title="(no group)",Ali TV
+https://alitv.livebox.co.in/alitvhls/live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zainabia Channel" tvg-logo="" group-title="(no group)",Zainabia Channel
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hyder TV" tvg-logo="" group-title="(no group)",Hyder TV
+https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qaim TV" tvg-logo="" group-title="(no group)",Qaim TV
+https://cdn.live247stream.com/qaim/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qaim TV Ziarat" tvg-logo="" group-title="(no group)",Qaim TV Ziarat
+https://qaimtv.info/qaim_ziarat_live247_r01/qaim_ziarat_live247_r01.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WIN TV" tvg-logo="" group-title="(no group)",WIN TV
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBN TV" tvg-logo="" group-title="(no group)",IBN TV
+http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hidayat TV" tvg-logo="" group-title="(no group)",Hidayat TV
+https://hidayat.wpbond.com/live/hidayat.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ahlebait TV" tvg-logo="" group-title="(no group)",Ahlebait TV
+http://scn2.shiacontent.network/live/ahlebaittv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Velayat TV USA" tvg-logo="" group-title="(no group)",Velayat TV USA
+https://stream.wpbond.com/live/velayat.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Mahdi TV" tvg-logo="" group-title="(no group)",Al Mahdi TV
+https://iptv.almahditv.com/almahditv/playlist_src/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Safeer TV" tvg-logo="" group-title="(no group)",Safeer TV
+https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Imam Ali TV" tvg-logo="" group-title="(no group)",Imam Ali TV
+http://45.94.31.206:8000/play/a05v
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dua Channel" tvg-logo="" group-title="(no group)",Dua Channel
+https://live.ishiacloud.com/W67H7ddMzVHyXPrG_720p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thaqalayn TV" tvg-logo="" group-title="(no group)",Thaqalayn TV
+http://77.36.160.160:1935/videolive/thaghalayn/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hadi TV 1" tvg-logo="https://cdn6.aptoide.com/imgs/d/9/8/d98bc4eab5cafeda7232fb46c16e9478_icon.png" group-title="(no group)",Hadi TV 1
+https://live.ishiacloud.com/hls/8012c071-8eb2-4f38-b6d3-0f540484c513_720p.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hadi TV 3" tvg-logo="https://cdn6.aptoide.com/imgs/d/9/8/d98bc4eab5cafeda7232fb46c16e9478_icon.png" group-title="(no group)",Hadi TV 3
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hadi TV 4" tvg-logo="https://cdn6.aptoide.com/imgs/d/9/8/d98bc4eab5cafeda7232fb46c16e9478_icon.png" group-title="(no group)",Hadi TV 4
+https://live.ishiacloud.com/hls/a90aa780-0f38-481a-82e2-6f22518947ad_720p.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hadi TV 7" tvg-logo="https://cdn6.aptoide.com/imgs/d/9/8/d98bc4eab5cafeda7232fb46c16e9478_icon.png" group-title="(no group)",Hadi TV 7
+https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sahar TV Urdu" tvg-logo="https://sahartv.ir/img/Logo.png" group-title="(no group)",Sahar TV Urdu
+https://lb-cdn.sepehrtv.ir/securelive3/saharurdusd/saharurdusd.m3u8?s=sUWBbEvG3RE02WMKnihAJQ&amp;t=1712845000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sahar Kurdi" tvg-logo="https://sahartv.ir/img/Logo.png" group-title="(no group)",Sahar Kurdi
+https://s3-cdn.sepehrtv.ir/securelive3/saharkurdsd/saharkurdsd.m3u8?s=G7WmzDt0QNycjIfypbOXtA&amp;t=1712845055
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IFilm English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%A2%DB%8C_%D9%81%DB%8C%D9%84%D9%85.png" group-title="(no group)",IFilm English
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/chunklist_w228511372_b644100_slen.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IFilm Farsi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%A2%DB%8C_%D9%81%DB%8C%D9%84%D9%85.png" group-title="(no group)",IFilm Farsi
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/chunklist_w544283668_b644100_slen.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IFilm Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%A2%DB%8C_%D9%81%DB%8C%D9%84%D9%85.png" group-title="(no group)",IFilm Arabic
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist_w2081709609_b644100_slen.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON 4 TR" tvg-logo="" group-title="(no group)",ON 4 TR
+https://edge1.socialsmart.tv/on4/bant1/chunks.m3u8?nimblesessionid=1424883156
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HodHod Farsi" tvg-logo="" group-title="(no group)",HodHod Farsi
+https://nl.livekadeh.com/hls2/hodhodfarsi_src.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HodHod Arabic" tvg-logo="" group-title="(no group)",HodHod Arabic
+https://5e74a9d684b2e.streamlock.net/hodhodTV/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Taha TV" tvg-logo="" group-title="(no group)",Taha TV
+https://media2.livaat.com/TAHA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Manar" tvg-logo="" group-title="(no group)",Al Manar
+https://manar.live/iptv/chunklist_w201597857_b500000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Alam" tvg-logo="" group-title="(no group)",Al Alam
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBS Kids" tvg-logo="" group-title="(no group)",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="nicktoons" tvg-logo="" group-title="(no group)",nicktoons
+http://89.254.128.5:22280/nicktoons/video.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PopMax" tvg-logo="" group-title="(no group)",PopMax
+https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network AR" tvg-logo="" group-title="(no group)",Cartoon Network AR
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT World" tvg-logo="" group-title="(no group)",TRT World
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="" group-title="(no group)",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT News" tvg-logo="" group-title="(no group)",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NRK 1" tvg-logo="" group-title="(no group)",NRK 1
+https://nrk-nrk1-oslo-viken.akamaized.net/21/0/hls/nrk_1/1035432803-1026273474-prog_index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NRK 2" tvg-logo="" group-title="(no group)",NRK 2
+https://nrk-nrk2.akamaized.net/22/0/hls/nrk_2/1709241829-123787468-prog_index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NRK Super" tvg-logo="" group-title="(no group)",NRK Super
+https://nrklivenrksuper-httpcache0-47115-httpcache0.dna.ip-only.net/47115-cachelive0/24/1/hls/nrksuper/1709241829-123787468-prog_index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Racing 1" tvg-logo="" group-title="(no group)",Dubai Racing 1
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YAS Sports" tvg-logo="" group-title="(no group)",YAS Sports
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv&amp;checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Horse and Country" tvg-logo="" group-title="(no group)",Horse and Country
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT 1" tvg-logo="" group-title="(no group)",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Belgesel" tvg-logo="" group-title="(no group)",TRT Belgesel
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Cocuk" tvg-logo="" group-title="(no group)",TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zindagi TV" tvg-logo="" group-title="(no group)",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Zahra Turcke" tvg-logo="" group-title="(no group)",Al Zahra Turcke
+https://mn-nl.mncdn.com/alzahra/alzahra_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Imam Hussain 3 English" tvg-logo="" group-title="(no group)",Imam Hussain 3 English
+https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Imam Hussain 4 Urdu" tvg-logo="" group-title="(no group)",Imam Hussain 4 Urdu
+https://ak.imamhussein.live/imhtv4live/imhtv4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Masirah" tvg-logo="" group-title="(no group)",Al Masirah
+https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Documentary" tvg-logo="" group-title="(no group)",RT Documentary
+https://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8?stream_start_offset=14000000&amp;stream_dvr_window=0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NASA TV" tvg-logo="" group-title="(no group)",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
